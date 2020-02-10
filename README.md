@@ -1,2 +1,2 @@
-# Tetris
-Just a Tetirs
+# 1024
+1024 game
